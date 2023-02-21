@@ -38,20 +38,26 @@ header img {
     color: #FFFFFF;
     text-transform: uppercase;
     font-size: 40px;
-
+    position: absolute;
+    right: 80%;
+    bottom: 450%;
 }
 
 #carousel h3 {
     color: #EDD154;
     text-transform: uppercase;
     font-size: 40px;
-    flex-direction: row;
-    justify-content: start;
+    position: absolute;
+    right: 70%;
+    bottom: 340%;
+    width: 400px;
 }
 
 .carousel-captation{
-    display: flex;
-    flex-direction: row; 
+
+    position: absolute;
+    /* left: 0%;
+    top: 25%; */
 }
 
 
@@ -166,7 +172,7 @@ footer {
 }
 
 .footer-p {
-    padding-top: 30px;
+    padding-top: 55px;
 }
 
 .footer-p2 {
