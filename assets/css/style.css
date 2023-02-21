@@ -1,0 +1,184 @@
+
+
+
+@font-face {
+    font-family: "Roboto Regular";
+    src: url(../fonts/Roboto/Roboto-Regular.ttf);
+}
+
+
+@font-face {
+    font-family: "Lato Regular";
+    src: url(../fonts/Lato/Lato-Regular.ttf);
+}
+
+body {
+    font-family: "Lato Regular";
+}
+
+.navbar {
+    background-color: #112E3E;
+}
+
+.navbar a {
+    color: #FFFFFF;
+    font-size: 1.5rem;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 2.3rem;
+    font-weight: bold;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-size: 1.3rem;
+}
+
+#text-reno p {
+    margin: 60px;
+    font-family: "Roboto Regular";
+}
+
+#text-reno h3 {
+    margin-top: 30px;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+#text-reno h3>p {
+    margin-top: 0px;
+    font-size: 1rem;
+}
+
+.button1 {
+    color: #FFFFFF;
+    background-color: #112E3E;
+    border: 2px solid;
+    margin: 1rem auto;
+    padding: 0.5rem 3.5rem;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    display: inline-block;
+    width: 100px;
+}
+
+
+.button1:hover {
+    color: black;
+    border: 2px solid black;
+    background-color: #FFFFFF;
+    margin: 1rem 2rem;
+    padding: 0.5rem 1.5rem;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+
+
+#gallerie-img h2 {
+    text-transform: uppercase;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+#gallerie-img h3 {
+    text-transform: uppercase;
+    font-size: 1.1rem;
+    margin-bottom: 40px;
+}
+
+#gallerie-img h4 {
+    text-transform: uppercase;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+#coordonnées h2 {
+    text-transform: uppercase;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+#coordonnées h3 {
+    text-transform: uppercase;
+    font-size: 1.1rem;
+    margin-bottom: 40px;
+}
+
+#coordonnées h4 {
+    text-transform: uppercase;
+    font-size: 1.1rem;
+    margin: 10px 20px 20px;
+    font-weight: bold;
+}
+
+#coordonnées p {
+    margin: 0;
+}
+
+
+
+
+
+
+
+footer {
+    margin-top: 40px;
+}
+
+.footer-img {
+    padding-top: 30px;
+}
+
+.footer-p {
+    padding-top: 30px;
+}
+
+.footer-p2 {
+    padding-top: 30px;
+}
+
+.footer-container-fluid {
+    background-color: #112E3E;
+}
+
+.footer-container-fluid p {
+    color: #FFFFFF;
+}
+
+.line3 {
+    background-color: black;
+    height: 30vh;
+    width: 3px;
+    margin: 20px;
+    padding: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
